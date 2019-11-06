@@ -2,6 +2,7 @@ package aa;
 
 public class B {
 	private String id;
+	private String age;
 	private String name;
 	public String getId() {
 		return id;
